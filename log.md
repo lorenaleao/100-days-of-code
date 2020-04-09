@@ -4,7 +4,7 @@
 
 **Today's Progress**: Solved 2 problems from 30-Day LeetCoding Challenge (yesterday's and today's problem). [Tomaz](https://github.com/tomaz1502) and I did a mock interview.
 
-**Thoughts**: I didn't find the problems too hard to solve it, they were kinda easy. However, I took more than 1 hour to find the best solution -- linear and with constant space complexity -- to the mock interview's problem. I was not really prepared, moodwise, to do it. 
+**Thoughts**: I didn't find the problems too hard to solve, they were kinda easy. However, I took more than 1 hour to find the best solution -- linear and with constant space complexity -- to the mock interview's problem. I was not really prepared, moodwise, to do it. 
 
 **Link(s) to work** (I will push my work to github tomorrow morning):
 
