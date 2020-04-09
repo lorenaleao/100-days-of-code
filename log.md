@@ -2,11 +2,15 @@
 
 ### Day 0: April 7th, 2020, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Solved 2 problems from 30-Day LeetCoding Challenge (yesterday's and today's problem). [Tomaz](https://github.com/tomaz1502) and I did a mock interview.
 
-**Thoughts**: 
+**Thoughts**: I didn't find the problems too hard to solve it, they were kinda easy. However, I took more than 1 hour to find the best solution -- linear and with constant space complexity -- to the mock interview's problem. I was not really prepared, moodwise, to do it. 
 
-**Link(s) to work**:
+**Link(s) to work** (I will push my work to github tomorrow morning):
+
+1. [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
+2. [Middle of the Linked List](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
+3. [Mock Interview's Problem](https://www.youtube.com/watch?v=XKu_SEDAykw)
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
