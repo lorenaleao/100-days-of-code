@@ -1,16 +1,47 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 7th, 2020, Tuesday
+### Day 0: April 8th, 2020, Wednesday
 
 **Today's Progress**: Solved 2 problems from 30-Day LeetCoding Challenge (yesterday's and today's problem). [Tomaz](https://github.com/tomaz1502) and I did a mock interview.
 
 **Thoughts**: I didn't find the problems too hard to solve, they were kinda easy. However, I took more than 1 hour to find the best solution -- linear and with constant space complexity -- to the mock interview's problem. I was not really prepared, moodwise, to do it. 
 
-**Link(s) to work** (I will push my work to github tomorrow morning):
+**Link(s) to work**:
 
 1. [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
 2. [Middle of the Linked List](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
 3. [Mock Interview's Problem](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
+### Day 1: April 10th, 2020, Friday
+
+**Today's Progress**: Solved 1 problem from 30-Day LeetCoding Challenge. 
+
+**Thoughts**: 
+**Link(s) to work**
+
+1. [Min Stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)
+
+### Day 2: April 11th, 2020, Saturday
+
+**Today's Progress**: Solved 1 problem from 30-Day LeetCoding Challenge. 
+
+**Thoughts**: I reviewed all the solutions to the challenge problems that I have already solved by reading my solutions and watching Errichto's videos. The problems reviwed were;
+
+1. [Happy Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/) (link video)
+2. [Maximum Subarray]
+3. [Move Zeroes]
+4. [Group Anagrams]
+5. [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
+6. [Middle of the Linked List](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
+7. [Min Stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)
+
+https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
+
+**Link(s) to work**
+
+1. 
+3. [Backspace String Compare](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/)
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
