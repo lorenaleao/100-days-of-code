@@ -34,7 +34,7 @@
 6. [Middle of the Linked List](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
 7. [Min Stack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)
 
-**Thoughts**: I didn't know Kadane's algorithm yet for the maximum subarray problem. So, it was good to learn that. I kinda implemented it without knowing it but after a friend gave me a hint on how to think about the problem. I also read this article: [Kadane’s Algorithm — (Dynamic Programming) — How and Why does it Work?](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d) by Rohit Singhal on Medium, which I liked. 
+**Thoughts**: I didn't know Kadane's algorithm for the maximum subarray problem yet. So, it was good to learn that. I kinda implemented it without knowing it but after a friend gave me a hint on how to think about the problem. I also read this article: [Kadane’s Algorithm — (Dynamic Programming) — How and Why does it Work?](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d) by Rohit Singhal on Medium, which I liked. 
 
 **Link(s) to work**:
 
